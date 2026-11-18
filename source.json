@@ -1,0 +1,31 @@
+{
+  "name": "A",
+  "identifier": "local.a.source",
+  "sourceURL": "https://raw.githubusercontent.com/luma-vpk/a/main/source.json",
+  "apps": [
+    {
+      "name": "A",
+      "bundleIdentifier": "local.a.app",
+      "developerName": "a",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/luma-vpk/a/main/icon.png",
+      "version": "0.2.2611181412",
+      "versionDate": "2026-11-18T09:12:34Z",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/luma-vpk/a/releases/download/v0.2.2611181412/a.ipa",
+      "size": 3358768,
+      "versions": [
+        {
+          "version": "0.2.2611181412",
+          "buildVersion": "2611181412",
+          "date": "2026-11-18T09:12:34Z",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/luma-vpk/a/releases/download/v0.2.2611181412/a.ipa",
+          "size": 3358768
+        }
+      ]
+    }
+  ],
+  "news": []
+}
